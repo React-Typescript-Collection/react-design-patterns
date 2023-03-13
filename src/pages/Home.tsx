@@ -13,7 +13,7 @@ const Home = () => {
       <div>
         <div>Reference: </div>
         <a href="https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-629030e2e2c7"
-         target="_blank">
+         rel="noreferrer" target="_blank">
         https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-629030e2e2c7
         </a>
       </div>
