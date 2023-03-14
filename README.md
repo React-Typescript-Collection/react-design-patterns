@@ -6,5 +6,9 @@ React Design Patterns
 4. Hooks 🎣
 5. Context API 📚
 
-reference:
+-- Reference --
+
 https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-629030e2e2c7
+
+Best practice:
+https://www.makeuseof.com/must-follow-react-practices/
