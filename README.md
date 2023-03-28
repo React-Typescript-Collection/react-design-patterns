@@ -12,3 +12,10 @@ https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-62903
 
 Best practice:
 https://www.makeuseof.com/must-follow-react-practices/
+
+https://www.freecodecamp.org/news/best-practices-for-react/
+
+
+
+scss:
+https://sass-guidelin.es/#architecture
